@@ -1,0 +1,13 @@
+Using Grub 
+
+edit /etc/default/grub
+
+Add to GRUB_CMDLINE_LINUX="" the ipv6.disable=1 
+
+save and exit
+
+grub-mkconfig -o /boot/grub/grub.cfg 
+
+reboot
+
+

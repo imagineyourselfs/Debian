@@ -1,0 +1,23 @@
+EXAMPLE
+
+clean install network-card-name: wlp2s0
+
+desired name: wlan0 
+
+----
+
+> AS ROOT USER 
+
+edit /etc/default/grub
+
+add to option GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0" 
+
+save 
+
+exit 
+
+grub-mkconfig -o /boot/grub/grub.cfg
+
+reboot
+
+
