@@ -4,7 +4,7 @@ echo "old ssh agent process, killed"
 sleep 2 
 eval $(ssh-agent)
 echo "new ssh-agent process has started" 
-ssh-add ~/.ssh/disroot_github_imagine_rsa
+ssh-add ~/.ssh/github_last_debian
 sleep 2
 echo "github ssh-key added"
 git add .
