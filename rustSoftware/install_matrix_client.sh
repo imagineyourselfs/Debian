@@ -7,14 +7,8 @@ cp ~/.cargo/bin/iamb /usr/bin/iamb
 
 echo "Matrix client installed.
 
-Try iamb --help
-
-add alias matrix=iamb
-
-Read more: https://iamb.chat/rooms/browsing.html to config client 
-
-
-
-" 
-
-
+#Try iamb --help
+#add alias matrix=iamb
+#Read more: https://iamb.chat/rooms/browsing.html to config client 
+# mkdir ~/.config/iamb 
+# $EDITOR ~/.config/iamb/config.json
