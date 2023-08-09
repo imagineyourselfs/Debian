@@ -8,7 +8,7 @@ sendo que é onde guardo outras notas que poderão estar incluídas em vídeo.
 
 ---
 
-Segundo a perspectiva dos vários passos que são necessários para manter um sistema Linux seguro, estar actualizado é um pequeno passo para estar seguro, mas também seja bom lembrar que só as permissões é que garantem maior segurança, na utilização do sistema, seja ao nível do utilizador comum, seja ao nível do servidor ou utilizadores mais avançados. 
+Segundo a perspectiva dos vários passos que são necessários para manter um sistema Linux seguro, estar actualizado é um dos vários passos que podem ser relevantes prestar atenção. Só as permissões é que garantem maior segurança, na utilização do sistema, seja ao nível do utilizador comum, seja ao nível do servidor ou utilizadores mais avançados. 
 
 O controlo dessas permissões, será visto com alguma profundidade, mas também com bastante simplicidade. 
 
