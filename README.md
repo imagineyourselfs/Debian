@@ -1,6 +1,7 @@
+
 # Ensinando e Aprendendo
-" Todos iremos aprender até ao último momento das nossas vidas e, todos poderemos ensinar até ao último momento das nossas vidas. <br>
-Nunca alguém saberá tudo. Nunca alguém intenderá tudo. A teoria é o "caminho", que está entregue para sempre à nossa capacidade de imaginar e de praticar. "  
+" Todos iremos aprender até ao último momento das nossas vidas e, <br> todos poderemos ensinar até ao último momento das nossas vidas. <br>
+Nunca alguém saberá tudo. Nunca alguém entenderá completamente tudo.<br> A teoria é o "caminho", que está entregue para sempre à nossa capacidade de imaginar e de praticar. "  
 
 - Esta página também terá como função, guardar a documentação dos vários guias que irei apresentar em vídeo, <br> 
 sendo que é onde guardo outras notas que poderão estar incluídas em vídeo. 
