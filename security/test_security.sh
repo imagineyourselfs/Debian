@@ -20,5 +20,4 @@ find / -xdev -user root \( -perm -4000 -o -perm -2000 \)
 
 # Delete any tmp files older than 24hrs:
 find /tmp -type f \( ! -user root \) -atime +1 -print -delete
-
 fstrim -av 
